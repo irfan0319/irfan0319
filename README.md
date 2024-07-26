@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @irfan0319
-- 👀 I’m interested in data engineer 
+- 👀 I’m interested in data engineering 
 - 🌱 I’m currently learning computer science 
 - 💞️ I’m looking to collaborate on 🤌🏻
 - 📫 How to reach me mdirfan030603@gmail.com
